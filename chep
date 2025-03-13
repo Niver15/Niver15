@@ -1,0 +1,7 @@
+echo "#niver15" >> README .md
+git init
+git add README .md
+git commit -m "first commiit"
+git branch -M main
+git remote add origin https://github.com/Niver15/Niver15.git
+git push -u origin main
